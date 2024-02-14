@@ -18,7 +18,7 @@ keempat, program sendiri akan terus berjalan hingga user tersebut milih untuk ke
 ![Penambahan anggota](https://github.com/harismln22/LP1DPBO2024C1/assets/159020670/d0b941ff-b8de-4312-a20a-85ddf91e1a95)
 
 
-ketika user memilih untuk menambah anggota, user akan diminta untuk memasukkan rincian anggota. ketika user sudah membuat, maka inputan tersebut akan masuk ke dalam daftar class 'Dpr'
+ketika user memilih untuk menambah anggota, user akan diminta untuk memasukkan rincian anggota. ketika user sudah membuat, maka inputan tersebut akan masuk ke dalam daftar class 'Dpr' (ketika user sudah membuat anggota, maka program akan langsung menampilkan anggota tersebut agar user tau jika anggota yang dia buat barusan berhasil dibuat).
 
 2. menghapus anggota
 
