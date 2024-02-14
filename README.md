@@ -7,7 +7,7 @@ Program ini didesain/dirancang untuk mengelola daftar anggota dpr. dan ini diimp
 # alur #
 pertama, Program akan membuat daftar kosong untuk para anggota Dpr.
 kedua, user akan diperlihatkan sebuah opsi menu yang bisa menginteraksi dengan Program.
-ketiga, user bisa memilih daro opsi menu tersebut, user bisa melakukan penambahan anggota, edit anggota, menampilkan anggota, menghapus anggota, dan keluar dari program tersebut.
+ketiga, user bisa memilih dari opsi menu tersebut, user bisa melakukan penambahan anggota, edit anggota, menampilkan anggota, menghapus anggota, dan keluar dari program tersebut.
 keempat, program sendiri akan terus berjalan hingga user tersebut milih untuk keluar.
 
 # dokumentasi #
