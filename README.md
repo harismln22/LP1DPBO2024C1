@@ -50,7 +50,7 @@ jika user tidak memilih salah satu opsi yang terdaftar di menu, maka program aka
 
 6. Menjalankan file
 
-karena kode tersebut merupakan bahasa python, maka menjalankannya cukup mudah, buka cmd dan navigasikan direktori file yang berisi dengan Dpr.py dan Main.py di terminal kalian, lalu ketik "Python main.py" dengan tanpa kutip.
+karena kode tersebut merupakan bahasa python, maka menjalankannya cukup mudah, buka cmd dan navigasikan direktori file yang berisi dengan Dpr.py dan Main.py di terminal/cmd, lalu ketik "Python main.py" dengan tanpa kutip.
 
 
 
