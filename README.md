@@ -29,8 +29,9 @@ ketika user memilih untuk menghapus anggota, user akan dimintai salah satu ID an
 
 3. Edit anggota
 
-![pilih edit anggota](https://github.com/harismln22/LP1DPBO2024C1/assets/159020670/08adfe4b-3665-49a6-ac19-907d280a36c3)
 ![Edit anggota](https://github.com/harismln22/LP1DPBO2024C1/assets/159020670/1d62c732-8950-4ad6-a683-42ebadc87892)
+![pilih edit anggota](https://github.com/harismln22/LP1DPBO2024C1/assets/159020670/08adfe4b-3665-49a6-ac19-907d280a36c3)
+
 
 seorang user bisa mengubah/memodifikasi dari daftar anggota Dpr jika user menginput ID yang sesuai dari daftar anggota tersebut. jika user memilih untuk mengubah nama, maka user tersebut bisa langsung memasukan Nama baru dari anggota dia yang mau diubah dan program akan mengubah nama tersebut menjadi yang baru. (dan ini berlaku untuk mengubah bidang, hingga partai).
 
@@ -49,7 +50,7 @@ jika user tidak memilih salah satu opsi yang terdaftar di menu, maka program aka
 
 6. Menjalankan file
 
-karena kode tersebut merupakan bahasa python, maka menjalankannya buka cmd dan navigasikan direktori file yang berisi dengan Dpr.py dan Main.py di terminal kalian, lalu ketik "Python main.py" dengan tanpa kutip.
+karena kode tersebut merupakan bahasa python, maka menjalankannya cukup mudah, buka cmd dan navigasikan direktori file yang berisi dengan Dpr.py dan Main.py di terminal kalian, lalu ketik "Python main.py" dengan tanpa kutip.
 
 
 
